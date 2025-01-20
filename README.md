@@ -1,1 +1,1 @@
-# 2025_WINK_Algorithm_study
+# 2025-WINK-Algorithm-study
